@@ -1,5 +1,10 @@
 package hello;
 
+/**
+ * this is a greeting
+ * @author chenzhangrun
+ *
+ */
 public class Greeting {
 
     private final long id;
